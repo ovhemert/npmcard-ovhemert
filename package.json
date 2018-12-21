@@ -23,6 +23,6 @@
     "standard": "^12.0.1"
   },
   "dependencies": {
-    "npmcard": "^1.0.0"
+    "npmcard": "^1.0.1"
   }
 }
