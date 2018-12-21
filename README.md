@@ -20,5 +20,5 @@ $ npx ovhemert
 Use the [npmcard](https://www.npmjs.com/package/npmcard) library.
 
 ``` sh
-$ npm install npmcards
+$ npm install npmcard
 ```
