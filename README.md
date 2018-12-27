@@ -1,7 +1,7 @@
 # My NPM Business Card
 
-[![Travis](https://img.shields.io/travis/com/ovhemert/ovhemert.svg?branch=master&logo=travis)](https://travis-ci.com/ovhemert/ovhemert)
-[![Dependencies](https://img.shields.io/david/ovhemert/ovhemert.svg)](https://david-dm.org/ovhemert/ovhemert)
+[![Travis](https://img.shields.io/travis/com/ovhemert/npmcard-ovhemert.svg?branch=master&logo=travis)](https://travis-ci.com/ovhemert/npmcard-ovhemert)
+[![Dependencies](https://img.shields.io/david/ovhemert/npmcard-ovhemert.svg)](https://david-dm.org/ovhemert/npmcard-ovhemert)
 [![Known Vulnerabilities](https://snyk.io/test/npm/ovhemert/badge.svg)](https://snyk.io/test/npm/ovhemert)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
@@ -22,3 +22,11 @@ Use the [npmcard](https://www.npmjs.com/package/npmcard) library.
 ``` sh
 $ npm install npmcard
 ```
+
+## Maintainers
+
+[Osmond van Hemert](https://github.com/ovhemert/about)
+
+## License
+
+Licensed under [MIT](./LICENSE).
