@@ -1,6 +1,6 @@
 {
   "name": "ovhemert",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "My NPM Business Card",
   "main": "./bin/index.js",
   "bin": {
