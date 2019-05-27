@@ -25,7 +25,9 @@ $ npm install npmcard
 
 ## Maintainers
 
-[Osmond van Hemert](https://github.com/ovhemert/about)
+Osmond van Hemert
+[![Github](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=github)](https://github.com/ovhemert)
+[![Web](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=nextdoor)](https://ovhemert.dev)
 
 ## License
 
