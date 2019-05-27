@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/ovhemert/npmcard-ovhemert.git"
   },
-  "author": "Osmond van Hemert <osmond@vanhemert.nu> (https://www.osmondvanhemert.nl)",
+  "author": "Osmond van Hemert <hello@ovhemert.dev> (https://ovhemert.dev)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ovhemert/npmcard-ovhemert/issues"
@@ -29,6 +29,6 @@
     "standard": "^12.0.1"
   },
   "dependencies": {
-    "npmcard": "^1.0.1"
+    "npmcard": "^1.0.4"
   }
 }
