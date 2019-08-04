@@ -27,7 +27,7 @@ $ npm install npmcard
 
 Osmond van Hemert
 [![Github](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=github)](https://github.com/ovhemert)
-[![Web](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=nextdoor)](https://ovhemert.dev)
+[![Web](https://img.shields.io/badge/-website.svg?style=social&logoColor=333&logo=nextdoor)](https://ovhemert.dev) [![Greenkeeper badge](https://badges.greenkeeper.io/ovhemert/npmcard-ovhemert.svg)](https://greenkeeper.io/)
 
 ## License
 
