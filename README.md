@@ -3,6 +3,7 @@
 [![Travis](https://img.shields.io/travis/com/ovhemert/npmcard-ovhemert.svg?branch=master&logo=travis)](https://travis-ci.com/ovhemert/npmcard-ovhemert)
 [![Dependencies](https://img.shields.io/david/ovhemert/npmcard-ovhemert.svg)](https://david-dm.org/ovhemert/npmcard-ovhemert)
 [![Known Vulnerabilities](https://snyk.io/test/npm/ovhemert/badge.svg)](https://snyk.io/test/npm/ovhemert)
+[![Coverage Status](https://coveralls.io/repos/github/ovhemert/npmcard-ovhemert/badge.svg)](https://coveralls.io/github/ovhemert/npmcard-ovhemert)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
 Shows my NPM card in the terminal.
