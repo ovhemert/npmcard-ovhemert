@@ -26,9 +26,9 @@
   },
   "homepage": "https://github.com/ovhemert/npmcard-ovhemert#readme",
   "devDependencies": {
-    "standard": "^12.0.1"
+    "standard": "^13.1.0"
   },
   "dependencies": {
-    "npmcard": "^1.0.4"
+    "npmcard": "^1.0.5"
   }
 }

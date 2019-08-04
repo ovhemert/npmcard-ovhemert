@@ -2,7 +2,7 @@
 
 const Card = require('npmcard')
 
-let card = new Card()
+const card = new Card()
 
 const user = {
   name: 'Osmond van Hemert',
