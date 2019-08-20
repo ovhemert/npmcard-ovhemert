@@ -20,7 +20,7 @@ const text = card.chalk.white
 
 card
   .setHeader(title(user.name))
-  .addRow([label('    Work:'), text(`Software Architect / Engineer / Open Source Geek`)])
+  .addRow([label('    Work:'), text('Software Architect / Engineer / Open Source Geek')])
   .addRow([label('     NPM:'), link(`https://www.npmjs.com/~${user.npm}`)])
   .addRow([label('  GitHub:'), link(`https://github.com/${user.github}`)])
   .addRow([label(' Twitter:'), link(`https://twitter.com/${user.twitter}`)])
